@@ -1,0 +1,21 @@
+input
+check to see if a number is a square root, meaning if it can 
+be squarrooted, return a true if so and a false if not
+
+
+function
+
+
+output
+25 = true
+3 = false
+
+
+1. //function statement named isSquare with parameter n
+
+
+2. 	//return static method Math.sqrt with 
+parameter n modulo 1 equal zero
+
+
+
