@@ -1,0 +1,22 @@
+input
+count the x and o, if they are even return true 
+,this is out of string,
+
+function
+
+
+output
+ 
+ xoxo = true
+
+
+
+
+1. //function statement named XO with parameter str
+
+2. //str assigned to str property of toLowerCase mwthod called to split method
+//with no space pattern
+
+3. //return str called to filter method, element named x, statement to filter, x equals
+//x string called to length operator equal to str filter x arrow function
+//equals 'o' string length operator

@@ -58,3 +58,17 @@ Jaden-Cased:     "How Can Mirrors Be Real If Our Eyes Aren't Real"
 Link to Jaden's former Twitter account @officialjaden via archive.org
 
 FUNDAMENTALSSTRINGSARRAYS
+
+## exes and ohs, fifth function
+
+Description:
+Check to see if a string has the same amount of 'x's and 'o's. The method must return a boolean and be case insensitive. The string can contain any char.
+
+Examples input/output:
+
+XO("ooxx") => true
+XO("xooxx") => false
+XO("ooxXm") => true
+XO("zpzpzpp") => true // when no 'x' and 'o' is present should return true
+XO("zzoo") => false
+FUNDAMENTALS
