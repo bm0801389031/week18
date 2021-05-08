@@ -1,10 +1,12 @@
 input
+modify dna strand accortding to these rools
+a = t, t = a, g = c, c = g
 
 function
 
 
 output
-
+attgc = taacg
 
 1. //function statement named DNAStrand with parameter dna
 
