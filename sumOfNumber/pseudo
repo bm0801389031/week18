@@ -1,0 +1,32 @@
+input 
+two number, add all the numbers in between the two
+
+function 
+
+
+output
+-1, 2 = -1, 0, 1, 2,
+
+equals 2
+
+
+1. //function statement named GetSum with parameters a and b
+
+2. //empty variable named result assigned 0
+
+3. //variable named bigger assigned a greater than b turnary operator a if truthy
+// b falsy
+
+4. //variable named smaller assigned a greater than b turnary op b if truthy a if falsy
+
+5. //for loop (variable i assigned smaller [initiator]; i lesserthan or equal to bigger
+///[condition]; statement to be run at the end of every loop iteration
+//i plus plus)
+
+6. //result plus equal i
+
+7. //return result
+
+
+
+
