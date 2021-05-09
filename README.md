@@ -74,7 +74,7 @@ XO("zzoo") => false
 FUNDAMENTALS
 
 
-## complementary DNA
+## complementary DNA, sixth function
 
 Description:
 Deoxyribonucleic acid (DNA) is a chemical found in the nucleus of cells and carries the "instructions" for the development and functioning of living organisms.
@@ -89,3 +89,18 @@ DNAStrand ("ATTGC") // return "TAACG"
 
 DNAStrand ("GTAT") // return "CATA" 
 FUNDAMENTALSSTRINGS
+
+
+
+## list filtered, seventh function
+
+Description:
+In this kata you will create a function that takes a list of non-negative integers and strings and returns a new list with the strings filtered out.
+
+Example
+filter_list([1,2,'a','b']) == [1,2]
+filter_list([1,'a','b',0,15]) == [1,0,15]
+filter_list([1,2,'aasf','1','123',123]) == [1,2,123]
+FUNDAMENTALSLISTSDATA STRUCTURESFILTERINGALGORITHMS
+
+

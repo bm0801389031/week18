@@ -1,0 +1,20 @@
+input
+an array of strings and numbers
+and i should get back an array of only numbers
+
+
+function
+
+
+
+output
+[1, 2, 5, 6, 'q', 'r'] = [1, 2, 5, 6]
+
+
+1. //function named filter_list with parameter l
+
+2. //return call filter on to l, parameter of filter element named e
+//pointing out a string arrow function to be passed through each
+//element Number.isInteger method which determins wheter the passed
+//value is an integer. thus for filtering out anything other than
+//a string and returning only numbers
