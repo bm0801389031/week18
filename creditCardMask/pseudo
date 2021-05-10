@@ -1,0 +1,32 @@
+input
+tern every letter in the string in to a hash mark, exept
+for the last four letters
+
+function
+
+
+output
+a string with every element turned in to a hash, exept for
+the last 4 elements
+
+
+1. //function statement named maskify with parameter cc
+
+2. // cc asigned call split on cc with no space pattern
+
+3. //for loop first statement i asigned to 0 as initiator
+//executed one time before the code block
+//second statement condition i is less than cc.length minus 4
+//[this will change every element from the array until is gets
+//to the last four] // i plus plus third statement
+
+4. //code block to be run on every iteration of the 
+    //for loop cc at i index assigned to '#'
+
+5.   //cc asigned to join method called on cc variable 
+  //with empty string pattern as parameter
+
+6.   //return  variable cc
+
+
+
